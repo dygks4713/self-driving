@@ -10,7 +10,7 @@ ROS autonomous driving study
 
 ## Simulators
 <div style="display: flex; gap: 10px;">
-  <img alt="Morai" src="https://img.shields.io/badge/Morai-Simulator-blue?logo=Morai&color=blue">
+  <img alt="Morai" src="https://img.shields.io/badge/Morai-22.R4.2-blue?logo=Morai&color=blue">
   <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-Simulator-orange?logo=Gazebo&logoColor=white">
   <img alt="CARLA" src="https://img.shields.io/badge/CARLA-Simulator-green?color=green">
 </div>
