@@ -14,3 +14,15 @@ ROS autonomous driving study
   <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-Simulator-orange?logo=Gazebo&logoColor=white">
   <img alt="CARLA" src="https://img.shields.io/badge/CARLA-Simulator-green?color=green">
 </div>
+
+# Gazebo
+
+# Morai
+```sh
+$ roslaunch rosbridge_server rosbridge_websocket.launch
+```
+```sh
+$ rosrun basics [file_name].py
+```
+
+# CARLA
